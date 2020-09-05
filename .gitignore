@@ -121,3 +121,5 @@ local.py
 
 # migrations
 migrations
+
+db.sqlite3-journal
